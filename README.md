@@ -1,4 +1,4 @@
-# AI for Education
+# AI for Education 🧮
 
 This project implements a Retrieval-Augmented Generation (RAG) system with **two agents** designed for math tutoring for **middle school students**.
 
